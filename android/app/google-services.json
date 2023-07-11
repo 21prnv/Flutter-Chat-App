@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "439236595614",
+    "project_id": "superchat-flutter",
+    "storage_bucket": "superchat-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439236595614:android:ba93c70984c71e8038908f",
+        "android_client_info": {
+          "package_name": "com.example.superchat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439236595614-s5pt0r54msu0qvvkehomculql4m9pe0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYKdx24re87WNj5wH7_k1yAtdh_he9G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439236595614-s5pt0r54msu0qvvkehomculql4m9pe0b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439236595614-2mqpaj2or29velu65it72i4hbj53mp5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.superchatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
